@@ -894,5 +894,4 @@
 
 <p>安装命令如下：</p>
 <pre><code>wget https://github.com/azx4833/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l</code></pre>
-<p>记得要把安装命令中的 <code>233boy</code> 更改成你的 Github 用户名</p>
 
