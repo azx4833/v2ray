@@ -1,11 +1,4 @@
 <div class="post-content">
-<p>这里收集一下本人网站所撰写的文章，因为域名老是被墙，换来换去的，现在直接在 WIKI 备份一下，不怕看不到了。</p>
-
-<h2 id="温馨提示">温馨提示</h2>
-
-<p>我们的永久域名是：<a href="https://233boy.com" rel="nofollow" target="_blank">233boy.com</a> (已墙)</p>
-
-<p>此 WIKI 仅作备份使用，内容可能无法与网站保持同步。</p>
 
 <h2 id="v2ray-一键安装脚本">V2Ray 一键安装脚本</h2>
 
