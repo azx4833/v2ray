@@ -1,45 +1,3 @@
-# 介绍
-
-最好用的 V2Ray 一键安装脚本 &amp; 管理脚本
-
-# 特点
-
-- 快速安装
-- 超级好用
-- 零学习成本
-- 自动化 TLS
-- 简化所有流程
-- 屏蔽 BT
-- 屏蔽中国 IP
-- 使用 API 操作
-- 兼容 V2Ray 命令
-- 强大的快捷参数
-- 支持所有常用协议
-- 一键添加 Shadowsocks
-- 一键添加 VMess-(TCP/mKCP/QUIC)
-- 一键添加 VMess-(WS/H2/gRPC)-TLS
-- 一键添加 VLESS-(WS/H2/gRPC)-TLS
-- 一键添加 Trojan-(WS/H2/gRPC)-TLS
-- 一键添加 VMess-(TCP/mKCP/QUIC) 动态端口
-- 一键启用 BBR
-- 一键更改伪装网站
-- 一键更改 (端口/UUID/密码/域名/路径/加密方式/SNI/动态端口/等...)
-- 还有更多...
-
-# 设计理念
-
-设计理念为：**高效率，超快速，极易用**
-
-脚本基于作者的自身使用需求，以 **多配置同时运行** 为核心设计
-
-并且专门优化了，添加、更改、查看、删除、这四项常用功能
-
-你只需要一条命令即可完成 添加、更改、查看、删除、等操作
-
-例如，添加一个配置仅需不到 1 秒！瞬间完成添加！其他操作亦是如此！
-
-脚本的参数非常高效率并且超级易用，请掌握参数的使用
-
 # 脚本说明
 
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
@@ -115,6 +73,4 @@ Usage: v2ray [options]... [args]...
    h, help                                         显示此帮助界面
 
 谨慎使用 del, ddel, 此选项会直接删除配置; 无需确认
-反馈问题) https://github.com/233boy/v2ray/issues
-文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
