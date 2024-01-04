@@ -893,16 +893,6 @@
 <p>你可以 Fork 一份，如果本人一键删库跑路了，你也可以照样正常安装使用</p>
 
 <p>安装命令如下：</p>
-<pre><code>wget https://github.com/233boy/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l</code></pre>
+<pre><code>wget https://github.com/azx4833/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l</code></pre>
 <p>记得要把安装命令中的 <code>233boy</code> 更改成你的 Github 用户名</p>
 
-<h2 id="关注我们">关注我们</h2>
-
-<p>Telegram 频道：<a href="https://t.me/tg2333" target="_blank">https://t.me/tg2333</a></p>
-
-<p>Telegram 群组：<a href="https://t.me/tg233boy" target="_blank">https://t.me/tg233boy</a></p>
-
-<h2 id="反馈问题">反馈问题</h2>
-
-<p><a href="https://github.com/233boy/v2ray/issues" target="_blank">https://github.com/233boy/v2ray/issues</a></p>
-</div>
